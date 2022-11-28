@@ -295,3 +295,4 @@ describe('esVocal(letra)', function() {
     expect(esVocal('u')).toBe('Es vocal');
   });
 });
+
