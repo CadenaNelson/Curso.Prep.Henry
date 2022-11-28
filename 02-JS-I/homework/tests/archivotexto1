@@ -1,0 +1,5 @@
+Variables: ES un elemento de la programación donde se almacena y se puee recuperar archivos en la programación. Existe varioa tipos de prograamación.
+Strings: Es una secuencia de texto que va representada en comillas. 
+Funciones (argumentos, return):Es un bloque de código o un conjunto de instrucciones que realiza una tarea específica. Argumentos: Es un conjunto de valores expresadas por comas y estan evaluadas de izquierda a derecha ysirve para pasar información a las funciones. Return: Es una instrucción de las funciones y sirve para devolver el valor dentro de la función. 
+Declaraciones if: Estas declaraciones if  o else permite reslizar funciones a soluciones a las preguntas de sí o no. 
+Valores booleanos (true, false): Estas variables se usan para almacenar información que únicamente puede tener dos estados falso o verdadero. 
