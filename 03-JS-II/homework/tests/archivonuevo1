@@ -1,0 +1,4 @@
+for : Es una sentencia y esta dentro de un bucle que sirve para repetir una o más instrucciones en un determinado número de veces. 
+"&&": Es un operador logico que significa "y" o en ingles "and" y se escribe && y sirve para evaluar dos expresiones y segun su resultado devolverá true o false.
+||: Es un operador logico que se entiende como "ó", y en ingles "or" se reconoce como ||, el cual sirve para determinar si una ex´resion es true.
+!: Operador logico cque significa "no" o en ingles "not", se representa así "!" y sirve para devolver el resltado contrario de true o false.
