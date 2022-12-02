@@ -1,0 +1,5 @@
+Objetos: Es un entidad independiente con propiedades y tipos.
+Propiedades: Es una asociación entre un nombre o clave y un valor.
+Métodos:Son funciones que sirven para manipular las variables de la clase.
+Bucle for…in:Itera sobre todas las propiedades enumerables de un objeto que está codificado por cadenas.
+Notación de puntos vs notación de corchetes: " es una manera de acceder a las propiedades o funciones de un objeto"."La notación con corchetes es otra manera de acceder a una propiedad de un objeto. Para usar esta notación, escribe el nombre del objeto seguido de corchetes []. Dentro de los corchetes, escribe el nombre de la propiedad como una string".
