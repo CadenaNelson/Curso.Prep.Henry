@@ -1,0 +1,2 @@
+prototype: Es un estilo de programación dirigida a objetos, el cual, las clases no se definen explícitamente, sino que se debe agregar propiedades y métodos a una instancia de otra clase o agregarlos a un objeto vacío.
+Constructors (de Clases): Es un metodo especial para crear e inicializar un objeto creado a partir de una clase.
